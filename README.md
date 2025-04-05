@@ -1,2 +1,2 @@
 # detla-demo
-this is demo learning for me
+this is demo learning for me.
